@@ -22,5 +22,8 @@ Requirements:
 - The website must be responsive at the following breakpoint - width of 950px;
 - Add a hover animation to the CTA button - making the color of the button a darker shade of red with a 250ms tranisition animation.
 
+How to submit: 
+- Upload the finished result to your own github as a public repository and send us back a link. 
+
 
 GOOD LUCK!
